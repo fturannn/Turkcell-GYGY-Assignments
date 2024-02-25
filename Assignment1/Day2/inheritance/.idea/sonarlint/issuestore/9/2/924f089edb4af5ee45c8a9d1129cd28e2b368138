@@ -1,0 +1,19 @@
+
+0
+java:S1220""Move this file to a named package.
+e
+java:S1854"CRemove this useless assignment to local variable "customerManager".(¾˜ã€úÿÿÿÿ8”»›Ş1
+e
+java:S1854"CRemove this useless assignment to local variable "employeeManager".(ÇÏõ›ùÿÿÿÿ8”»›Ş1
+^
+java:S1854"<Remove this useless assignment to local variable "employee".(Ğ÷è¤úÿÿÿÿ8”»›Ş1
+^
+java:S1854"<Remove this useless assignment to local variable "customer".(âî¤ ùÿÿÿÿ8”»›Ş1
+O
+java:S1481"-Remove this unused "customer" local variable.(âî¤ ùÿÿÿÿ8•»›Ş1
+O
+java:S1481"-Remove this unused "employee" local variable.(Ğ÷è¤úÿÿÿÿ8•»›Ş1
+V
+java:S1481"4Remove this unused "employeeManager" local variable.(ÇÏõ›ùÿÿÿÿ8•»›Ş1
+V
+java:S1481"4Remove this unused "customerManager" local variable.(¾˜ã€úÿÿÿÿ8•»›Ş1
