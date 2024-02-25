@@ -1,0 +1,16 @@
+
+0
+java:S1220""Move this file to a named package.
+[
+java:S1854"9Remove this useless assignment to local variable "mesaj".(Ç¾ìÁøÿÿÿÿ8ÃêíŞ1
+L
+java:S1481"*Remove this unused "mesaj" local variable.(Ç¾ìÁøÿÿÿÿ8ÄêíŞ1
+L	java:S106"+Replace this use of System.out by a logger.(ÿ¬äşÿÿÿÿ8ÅêíŞ1
+G	java:S106"+Replace this use of System.out by a logger.(¶™²ê8ÆêíŞ1
+L	java:S106
+"+Replace this use of System.out by a logger.(Ãìùùÿÿÿÿ8ÇêíŞ1
+F	java:S106"+Replace this use of System.out by a logger.(ÃÂ“v8ˆ÷îŞ1
+L	java:S106"+Replace this use of System.out by a logger.(œ´Òéüÿÿÿÿ8‰÷îŞ1
+G	java:S106"+Replace this use of System.out by a logger.(Å”ÿƒ8Š÷îŞ1
+V
+java:S3400)"9Remove this method and declare a constant for this value.(ÉÜÏÌ8Œ÷îŞ1
