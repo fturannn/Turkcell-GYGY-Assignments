@@ -1,0 +1,13 @@
+
+0
+java:S1220""Move this file to a named package.
+Y
+java:S1854"<Remove this useless assignment to local variable "sayilar2".(ƒ÷ ¨8àÙ÷Þ1
+V
+java:S1854"9Remove this useless assignment to local variable "sayi1".(à—‰8àÙ÷Þ1
+T
+java:S1854"9Remove this useless assignment to local variable "sayi2".(æìX8àÙ÷Þ1
+f
+java:S1854"DRemove this useless assignment to local variable "customerManager1".( ž™èûÿÿÿÿ8àÙ÷Þ1
+G	java:S106"+Replace this use of System.out by a logger.(å«8æÙ÷Þ1
+L	java:S106"+Replace this use of System.out by a logger.(ŠþÌÐùÿÿÿÿ8çÙ÷Þ1
