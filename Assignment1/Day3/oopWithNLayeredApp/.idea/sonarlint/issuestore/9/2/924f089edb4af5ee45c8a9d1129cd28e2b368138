@@ -1,0 +1,31 @@
+
+7
+java:S1220""Move this file to a named package.8 ¸Ş1
+X
+java:S1854";Remove this useless assignment to local variable "course8".(ªœÂ8ã—³¸Ş1
+]
+java:S1854";Remove this useless assignment to local variable "course7".(æŞÒ´üÿÿÿÿ8ã—³¸Ş1
+X
+java:S1854";Remove this useless assignment to local variable "course6".(ùìŞç8ã—³¸Ş1
+]
+java:S1854";Remove this useless assignment to local variable "course5".(ÛÉ–’şÿÿÿÿ8ã—³¸Ş1
+X
+java:S1854";Remove this useless assignment to local variable "course4".(ñÚ¨ë8ã—³¸Ş1
+X
+java:S1854";Remove this useless assignment to local variable "course3".(Íüİ8ã—³¸Ş1
+X
+java:S1854";Remove this useless assignment to local variable "course2".(ßÚ±¸8ã—³¸Ş1
+I
+java:S1481",Remove this unused "course2" local variable.(ßÚ±¸8ä—³¸Ş1
+I
+java:S1481",Remove this unused "course3" local variable.(Íüİ8ä—³¸Ş1
+I
+java:S1481",Remove this unused "course4" local variable.(ñÚ¨ë8ä—³¸Ş1
+N
+java:S1481",Remove this unused "course5" local variable.(ÛÉ–’şÿÿÿÿ8ä—³¸Ş1
+I
+java:S1481",Remove this unused "course6" local variable.(ùìŞç8ä—³¸Ş1
+N
+java:S1481",Remove this unused "course7" local variable.(æŞÒ´üÿÿÿÿ8å—³¸Ş1
+I
+java:S1481",Remove this unused "course8" local variable.(ªœÂ8å—³¸Ş1
