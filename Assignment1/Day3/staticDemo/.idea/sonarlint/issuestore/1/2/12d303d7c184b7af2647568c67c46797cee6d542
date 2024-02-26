@@ -1,0 +1,10 @@
+
+7
+java:S1220""Move this file to a named package.8ÄÉÅ­Ş1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Á˜å¾8Šâ­Ş1
+G	java:S106"+Replace this use of System.out by a logger.(›Øåò8Ğ„å­Ş1
+F	java:S106"+Replace this use of System.out by a logger.(—«ÿZ8”©î­Ş1
+^
+java:S1126
+"AReplace this if-then-else statement by a single return statement.(–¹üÚ8·†Ê­Ş1
