@@ -29,11 +29,17 @@ public class ProgrammingLanguageManager implements ProgrammingLanguageService {
     @Override
     public ProgrammingLanguage save(ProgrammingLanguage programmingLanguage) {
         List<ProgrammingLanguage> programmingLanguages = programmingLanguageRepository.getAll();
+
         for(ProgrammingLanguage language : programmingLanguages) {
             if(language.getName().equals(programmingLanguage.getName())) {
                 throw new RuntimeException("Aynı isimde programlama dili ekleyemezsiniz!");
             }
         }
+
+        if(programmingLanguage.getName().isEmpty()) {
+            throw new RuntimeException("Programlama dili ismi boş geçilemez!");
+        }
+
         return programmingLanguageRepository.save(programmingLanguage);
     }
 
